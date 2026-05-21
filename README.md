@@ -61,7 +61,6 @@ The project contains:
 - users table
 - roles table
 - One-to-Many relationship between roles and users
-
 ---
 
 ## Project URL

@@ -47,7 +47,7 @@ This project is a Backend Development and Database Integration application devel
 
 ### Database Name
 ```sql
-user_system
+user-system
 ```
 
 ### Tables
